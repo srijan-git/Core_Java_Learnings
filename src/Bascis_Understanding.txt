@@ -1,0 +1,62 @@
+What is the difference between Primitive and Non primitive Data Types?
+
+Primitive:
+        Primitive Data types are the one which
+         are by default supported by java, or we can say pre-defined in java.
+         example,int,float,boolean,double,short,byte.
+
+
+Non-Primitive:
+        Non-primitive data types are the one which are a bit customed in nature where developers have
+        the liberty to define the nature of the data type.
+        example, Arrays,Strings,Class etc.
+
+Note:
+    There are some debates over calling String as a Non-primitive datatype but String is bit inclined towards
+    the non-primitive data type.
+
+
+What is token in java?
+    Tokens in java are basically some reserved expressions or words or symbols
+    which have predefined meaning in java and we cannot override this meaning.
+
+   Those token are categorised in 4 types,
+
+   Keywords:
+            abstruct assert boolean break byte case catch char class const continue default do double else
+            enum exports extends final finally float for goto if implements imports instanceof int interface long
+            module native new open opens package private protected provides public requires return short static
+            strictfp super swtitch synchronized this throw throws to transient transitive try uses
+            void volatile while with.
+
+
+   Identifiers:
+           any name that you declared in your program
+           cannot:starts with number,contains space,have +,-,&
+
+   Constants:
+           final Variables
+
+
+   Special Symbols:
+           [] { } ( ) , * ; =
+
+
+   Operators:
+            arithmatic,logical,comparison,bitwise etc.
+
+
+
+  What is system?
+                The System class contains several useful class fields and methods. It cannot be instantiated.
+                Among the facilities provided by the System class are standard input,
+                standard output, and error output streams;
+  What is out?
+               The "standard" output stream. This stream is already open and ready to accept output data.
+
+
+  What is interface?
+                Interface basically sort of a declaration which will tell you
+                what kind of classes present under the interface.
+
+                Interface is a generic blue print of specific class implementation.
